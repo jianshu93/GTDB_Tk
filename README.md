@@ -1,5 +1,7 @@
 # GTDB-Tk
+#### Modified by the author (jansuechao@gamil.com) according to bugs and suggestions from the original GitHub website. The pplacer memory issue is solved by specify a specific cpu values for pplacer to use (https://github.com/Ecogenomics/GTDBTk/commit/520fbbd516bc6a28282d663b0dbdc054f43e32f8).
 
+Here is the original information from https://github.com/Ecogenomics/GTDBTk
 [![version status](https://img.shields.io/pypi/v/gtdbtk.svg)](https://pypi.python.org/pypi/gtdbtk)
 [![Bioconda](https://img.shields.io/conda/vn/bioconda/gtdbtk.svg?color=green)](https://anaconda.org/bioconda/gtdbtk)
 [![Downloads](https://pepy.tech/badge/gtdbtk)](https://pepy.tech/project/gtdbtk)
